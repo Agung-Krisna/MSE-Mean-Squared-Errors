@@ -2,7 +2,7 @@
 This is a program to automate the process of finding MSE
 
 ### Algorithm
-
+***view this on the raw version, so that you don't get a headache***<br>
 //there’s a lot of loops, you don’t need to implement all of the loops here, but I used it //in order to make different functions
 
 let list A, B, C
